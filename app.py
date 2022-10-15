@@ -1,4 +1,3 @@
-# from crypt import methods
 import pickle
 from flask import Flask,request,app, jsonify,url_for, redirect, flash, render_template, session, escape
 import numpy as np
